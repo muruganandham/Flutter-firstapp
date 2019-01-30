@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![screen shot](/ss1.png)
+<img src="/ss1.png?raw=true" alt="vectors with stylesheet" title="screen shot" align="center" height="500" />
 
 ## Getting Started
 
